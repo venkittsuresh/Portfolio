@@ -19,7 +19,7 @@ function Home() {
     <About/>
     <Contact/>
     <CvDownload/>
-    <Project/>
+    
     <Footer/>
     </>
 )
